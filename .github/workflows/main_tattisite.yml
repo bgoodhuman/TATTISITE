@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'TATTISITE'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E3244DDEB70940A1B5FFCF56405D0B2D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3893A0DE40B74099AD321E1E4898F400 }}
           package: .
